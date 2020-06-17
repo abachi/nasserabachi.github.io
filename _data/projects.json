@@ -1,5 +1,18 @@
 [
   {
+    "title": "E-commerce content management",
+    "image": "/assets/images/matjar.jpg",
+    "url": "/projects/matjar",
+    "technologies": [
+      "react",
+      "redux",
+      "nodejs",
+      "HTML & CSS",
+      "PostgreSQL",
+      "Stripe"
+    ]
+  },
+  {
     "title": "Blogy - A Simple Blog",
     "image": "/assets/images/blogy.png",
     "url": "/projects/blogy",

@@ -1,0 +1,14 @@
+<div class="mx-3 md:w-1/2 md:mx-auto my-12">
+  <p class="leading-normal text-3xl text-center">
+    Hello, I am AbdeNasser from Algeria. <br />a <span class="font-semibold">self-motivated</span>, and an <span
+      class="font-semibold">aspiring web developer</span>.
+  </p>
+  <div class="skills my-12">
+    <h1 class="font-semibold text-3xl text-center my-3">My Skills</h1>
+    <ul class="flex flex-wrap justify-center mx-3">
+      {% for skill in site.data.skills %}
+      <li class="text-base font-semibold my-2 mx-3 bg-blue-200 px-2 py-1 rounded">{{ skill }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

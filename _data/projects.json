@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Blogy - A Simple Blog",
+    "image": "/assets/images/blogy.png",
+    "url": "/projects/blogy",
+    "technologies": [
+      "react",
+      "redux",
+      "firebase"
+    ]
+  },
+  {
+    "title": "Mobile App For A Complain System",
+    "image": "/assets/images/shida.png",
+    "url": "/projects/shida",
+    "technologies": [
+      "react-native",
+      "redux",
+      "Expo",
+      "google-maps"
+    ]
+  },
+  {
+    "title": "Custom Football CMS",
+    "image": "/assets/images/lrfso.png",
+    "url": "/projects/lrfso",
+    "technologies": [
+      "PHP",
+      "Laravel",
+      "TailwindCSS",
+      "Git",
+      "jQuery"
+    ]
+  }
+]

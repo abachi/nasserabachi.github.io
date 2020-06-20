@@ -1,10 +1,11 @@
 ---
 layout: home
+title: Portfolio
 ---
 <div class="py-12 bg-gray-100">
   {% include skills.html %}
   <div class="mx-3 md:w-1/2 md:mx-auto my-12 text-center">
-    <a href="/abachiAbdeNasserCv.pdf" class="bg-green-500 text-white py-2 px-4 rounded">Download CV</a>
+    <a href="https://bit.ly/3fIWTI5" class="bg-green-500 text-white py-2 px-4 rounded">Download CV</a>
   </div>
     <div id="projects" class="projects flex flex-wrap justify-center items-start">
       {% for project in site.data.projects %}

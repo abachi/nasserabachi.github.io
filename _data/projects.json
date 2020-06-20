@@ -23,17 +23,6 @@
     ]
   },
   {
-    "title": "Mobile App For A Complain System",
-    "image": "/assets/images/shida.png",
-    "url": "/projects/shida",
-    "technologies": [
-      "react-native",
-      "redux",
-      "Expo",
-      "google-maps"
-    ]
-  },
-  {
     "title": "Custom Football CMS",
     "image": "/assets/images/lrfso.png",
     "url": "/projects/lrfso",

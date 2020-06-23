@@ -16,11 +16,11 @@ layout: project
 </ul>
 
 <div class="my-6">
-  <a class="mr-6 text-gray-500" target="_blank" >Live</a> 
-  <a class="ml-6 text-gray-500" target="_blank">Code</a> 
+  <a class="mr-6 text-green-500" target="_blank" href="https://abachidev-matjar.herokuapp.com" >Live - still in progress</a> 
+  <a class="ml-6 text-green-500" target="_blank" href="https://github.com/abachi/matjar-client">Code</a> 
 </div>
 
-<p class="leading-normal mb-3">In this project, I am working on a custom e-commerce CMS, you can think of it like a mini version of Shopify. I choose the name Matjar because it means "store" in Arabic. Matjar should contains the following features:</p>
+<p class="leading-normal mb-3">In this project, I am working on a custom e-commerce CMS, you can think of it like a mini version of Shopify.The name Matjar means "a store" in Arabic. Matjar will contain the following features:</p>
 <ul class="list-disc pl-6 mb-3">
   <h1 class="font-bold">Main features:</h1>
   <li class="mb-1">Manage products and collections easily via a nice dashboard.</li>
